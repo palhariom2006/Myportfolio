@@ -1,0 +1,10 @@
+@media only screen and (max-width:920px) {
+    .my_des:after{
+       display: none;
+    
+    }
+    .my_des:before{
+       display: none;
+    
+    }
+}
