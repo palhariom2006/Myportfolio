@@ -8,3 +8,100 @@
     
     }
 }
+
+/* hero section css */
+@media only screen and (max-width:1100px){
+   .sec_name{
+      font-size: 42px;
+   }
+   .sec_des{
+      font-size: 32px;
+   }
+   .patter_img{
+      left: 20px;
+      bottom: -10px;
+      width: 30px;
+      height: 30px;
+   }
+   .social_media{
+      flex-wrap: wrap;
+      justify-content: center;
+   }
+   .four_svg{
+      margin-top: 10px;
+   }
+}
+
+@media only screen and (max-width:1000px) {
+   .exp_div p{
+      border-radius: 90px;
+      line-height:17px;
+      font-size: 11px;
+   }
+   .about_des{
+      font-size: 11px;
+      line-height: 17px;
+   }
+   .about_me_Section ul li{
+      font-size: 12px;
+      word-spacing: 0;
+      letter-spacing: 0.2px;
+   }
+}
+
+@media only screen and (max-width:992px) {
+   .box{
+      width: 30%;
+      height: 150px;
+   }
+   .about_me_Section ul{
+      width: 65%;
+   }
+   .box_title p{
+      font-size: 20px;
+   }
+}
+
+
+
+@media only screen and (max-width:888px) {
+   .add_box{
+      display: block;
+   }
+   .add_left ,.add_right{
+      width: 100%;
+   }
+   .profile_div{
+      width: 150px;
+      height: 150px;
+   }
+}
+
+
+@media only screen and (max-width:768px) {
+   .three_work{
+      display: block;
+   }
+   .same_work_div{
+      width: 100%;
+      margin: 20px 0;
+   }
+   .box_title p{
+      font-size: 24px;
+   }
+   .form_main{
+      display: block;
+   }
+   .input_group{
+      width: 100%;
+   }
+   .my_name{
+      font-size: 20px;
+   }
+   .my_des{
+      font-size: 14px;
+      color: #FFB400;
+      font-weight: bolder;
+   }
+}
+

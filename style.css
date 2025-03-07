@@ -770,7 +770,7 @@ textarea::placeholder {
     justify-content: space-between;
 }
 .add_left{
-    width: 47%;
+    width: 50%;
     padding: 12px;
 }
 .add_left a{
@@ -781,9 +781,10 @@ textarea::placeholder {
     font-size: 18px;
 }
 .add_left a p span{
-    color: #696969;
+    color: #593f00;
     font-size: 16px;
     letter-spacing: 1px;
+    font-weight: 500;
 }
 
 .add_right {
